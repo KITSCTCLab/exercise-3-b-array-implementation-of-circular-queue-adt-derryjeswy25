@@ -1,4 +1,4 @@
-class MyCircularQueue:
+lass MyCircularQueue:
     def __init__(self, size: int):
         # Write code here
 
